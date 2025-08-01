@@ -2,7 +2,7 @@
 
 `Desenvolvedor Backend`
 
-Me chamo Gustavo Luiz Santos , tenho 19 anos e sou natural de Sao Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou fascinado por tecnologia e  curto compartilha meu conhecimento através do meu Linkedin  "[Gustavo Santos](www.linkedin.com/in/gustsants](https://www.linkedin.com/in/gustsants/)".
+Me chamo Gustavo Luiz Santos , tenho 19 anos e sou natural de Sao Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNINTER. Sou fascinado por tecnologia e  curto compartilha meu conhecimento através do meu Linkedin  "[Gustavo Santos](www.linkedin.com/in/gustsants](https://www.linkedin.com/in/gustsants/))".
 ---
 
 ### 🤖 Linguagens e Tecnologias
