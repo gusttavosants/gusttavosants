@@ -109,7 +109,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.
 align="left"
 alt="GitHub Stats"
 height="200"
-style="padding-top: 15px;"
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusttavosants&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
 
