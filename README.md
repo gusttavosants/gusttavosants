@@ -42,14 +42,6 @@ Sou um **Desenvolvedor Backend** apaixonado por criar APIs eficientes e arquitet
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ---
-
-## 📊 Estatísticas
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=gusttavosants&theme=monokai&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180em" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusttavosants&theme=monokai&layout=compact" alt="Top Langs" height="180em" /> </p>
-### 🏆 Conquistas
-<p align="left"> <img src="https://github-profile-trophy.vercel.app/?username=gusttavosants&theme=cobalt&no-frame=false&margin-w=4" alt="GitHub Trophies" /> </p>
-
----
-
 ## 📫 Vamos Conversar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustsants/)
