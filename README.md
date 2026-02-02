@@ -75,12 +75,12 @@ const gustavoMelo = {
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Gusttavosants&show_icons=true&hide_border=true&theme=github_dark&icon_color=FF3B30"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gusttavosants&hide=Html&theme=dark"
     alt="GitHub Stats"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gusttavosants&layout=compact&hide_border=true&theme=github_dark"
+    src="https://nirzak-streak-stats.vercel.app/?user=gusttavosants&theme=dark&hide_border=false"
     alt="Linguagens mais usadas"
   />
 </p>
